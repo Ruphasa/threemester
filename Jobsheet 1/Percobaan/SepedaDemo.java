@@ -1,7 +1,5 @@
 package Percobaan;
 
-import Percobaan.Sepeda;
-
 public class SepedaDemo {
 
     public static void main(String[] args) {
